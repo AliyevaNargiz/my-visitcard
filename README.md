@@ -1,45 +1,21 @@
-# Nargiz Aliyeva - Digital Visit Card
+#Hello World!
 
-An interactive, flippable digital business card created using HTML, CSS, and JavaScript.
+##I'm Nargiz Aliyeva, a youth advocate, aspiring space engineer, and founder of the Aerospace Engineering and Space Research Club. I'm passionate about blending technology, nature, and human potential to create meaningful impact on Earth and beyond.
 
-## Features
+- I’ve led award-winning space projects, represented Azerbaijan on global stages, and broken barriers as a young woman in STEM and leadership.
 
-- Responsive and beautiful design
-- Flip animation to show contact information
-- Social media links
-- Downloadable resume button
-- Interactive hover effects
-- Modern, visually appealing layout
+- I’m also a curious botanist, storyteller, and spiritual explorer — proving that science and soul can thrive together.
 
-## How to Use
+##My interests include:
 
-1. Clone or download this repository
-2. Replace the placeholder image with your own photo
-3. Update the personal information and links:
-   - Replace `YOUR_PORTFOLIO_WEBSITE_URL` in `script.js` with your actual portfolio URL
-   - Replace `YOUR_RESUME_URL` in `script.js` with the path to your resume PDF
-   - You can upload your resume to the same directory and link to it with a relative path
-4. Open `index.html` in a web browser to view your digital visit card
+- Space Tech, Policy, and Product Management
 
-## Customization
+- AI, Data, and Innovation for Good
 
-- **Profile Image**: Replace the placeholder image URL in `index.html` with your own image
-- **Colors**: You can modify the colors in `styles.css` to match your personal brand
-- **Information**: Update all personal details in `index.html`
-- **Social Links**: The social media links are already set up with your provided URLs
+- Youth Empowerment, Peacebuilding, and Intercultural Dialogue
 
-## File Structure
+- Herbology, Sustainability, and Nature-Based Wisdom
 
-- `index.html` - Main HTML structure
-- `styles.css` - All styling and animations
-- `script.js` - Interactive functionality (card flip, download button)
-- `README.md` - This file
+I believe in creating new worlds, not just exploring them.
+Let’s connect and build the future together. ✨
 
-## Next Steps
-
-1. Add a real profile photo
-2. Upload your resume PDF
-3. Link to your actual portfolio website
-4. Host the files on a web server or GitHub Pages to make it publicly accessible
-
-Enjoy your new digital visit card! 
