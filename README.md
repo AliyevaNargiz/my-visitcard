@@ -4,7 +4,7 @@ I'm Nargiz Aliyeva, a youth advocate, aspiring space engineer, and founder of th
 
 - I’ve led award-winning space projects, represented Azerbaijan on global stages, and broken barriers as a young woman in STEM and leadership.
 
-- I’m also a curious botanist, storyteller, and spiritual explorer — proving that science and soul can thrive together.
+- I’m also a curious botanist, storyteller, and spiritual explorer, proving that science and soul can thrive together.
 
 ## My interests include:
 
