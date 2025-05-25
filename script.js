@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function downloadResume() {
         const link = document.createElement('a');
-        link.href = 'Nargiz_Aliyeva_Resume.pdf';
-        link.download = 'C:/Users/hp/Desktop/my-visitcard/Nargiz_Aliyeva_Resume.pdf';
+        link.href = 'C:/Users/hp/Desktop/my-visitcard/resources/Nargiz_Aliyeva_Resume.pdf';
+        link.download = 'Nargiz_Aliyeva_Resume.pdf';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
